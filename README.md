@@ -6,7 +6,7 @@ A sleek, responsive, and modern personal portfolio website built using core web 
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Site](https://github.com/)**
+🔗 **[View Live Site](https://sakshi-chaudhary91.github.io/sakshi-portfolio/)**
 
 
 
